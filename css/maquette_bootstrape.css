@@ -1,0 +1,21 @@
+header{
+    background-color: #343A40 !important;
+}
+.white{
+    color: rgb(255, 255, 255);
+    border: 0px solid rgba(0, 0, 0, .125) !important;
+}
+.btn{
+    background-color: #A77427 !important;
+}
+h2{
+    color: #FFC107;
+}
+
+
+.card-img{
+    clip-path:ellipse(33% 50%);
+}
+footer p{
+    color: white;
+}
